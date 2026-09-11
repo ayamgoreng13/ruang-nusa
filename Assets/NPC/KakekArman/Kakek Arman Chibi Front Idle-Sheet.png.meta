@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 8adde84af1d00dd418399491dad7fd19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6843308430089489312
+    second: Kakek Arman Chibi Front Idle-Sheet_0
+  - first:
+      213: 4580745530438354330
+    second: Kakek Arman Chibi Front Idle-Sheet_1
+  - first:
+      213: -6503560226577768466
+    second: Kakek Arman Chibi Front Idle-Sheet_2
+  - first:
+      213: 4649027803315243203
+    second: Kakek Arman Chibi Front Idle-Sheet_3
+  - first:
+      213: 6018583500476143391
+    second: Kakek Arman Chibi Front Idle-Sheet_4
+  - first:
+      213: -2505623023748342879
+    second: Kakek Arman Chibi Front Idle-Sheet_5
+  - first:
+      213: -1651813776156164458
+    second: Kakek Arman Chibi Front Idle-Sheet_6
+  - first:
+      213: -3488295035085057283
+    second: Kakek Arman Chibi Front Idle-Sheet_7
+  - first:
+      213: 2343650696186803210
+    second: Kakek Arman Chibi Front Idle-Sheet_8
+  - first:
+      213: 7234291956379309054
+    second: Kakek Arman Chibi Front Idle-Sheet_9
+  - first:
+      213: -5264274514652043486
+    second: Kakek Arman Chibi Front Idle-Sheet_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kakek Arman Chibi Front Idle-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab8bef72c058fe50800000000000000
+      internalID: 6843308430089489312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakek Arman Chibi Front Idle-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a958c344ac3129f30800000000000000
+      internalID: 4580745530438354330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakek Arman Chibi Front Idle-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef19776e66beb5a0800000000000000
+      internalID: -6503560226577768466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakek Arman Chibi Front Idle-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8058fc72aa48040800000000000000
+      internalID: 4649027803315243203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakek Arman Chibi Front Idle-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1758ec4ecd468350800000000000000
+      internalID: 6018583500476143391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakek Arman Chibi Front Idle-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 3
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab9070a22d3a3dd0800000000000000
+      internalID: -2505623023748342879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakek Arman Chibi Front Idle-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e7d1d4f149319e0800000000000000
+      internalID: -1651813776156164458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakek Arman Chibi Front Idle-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 3
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df21ff9b526179fc0800000000000000
+      internalID: -3488295035085057283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakek Arman Chibi Front Idle-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04bfc714e1568020800000000000000
+      internalID: 2343650696186803210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakek Arman Chibi Front Idle-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef35475943e556460800000000000000
+      internalID: 7234291956379309054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakek Arman Chibi Front Idle-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227e502683a81f6b0800000000000000
+      internalID: -5264274514652043486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kakek Arman Chibi Front Idle-Sheet_0: 6843308430089489312
+      Kakek Arman Chibi Front Idle-Sheet_1: 4580745530438354330
+      Kakek Arman Chibi Front Idle-Sheet_10: -5264274514652043486
+      Kakek Arman Chibi Front Idle-Sheet_2: -6503560226577768466
+      Kakek Arman Chibi Front Idle-Sheet_3: 4649027803315243203
+      Kakek Arman Chibi Front Idle-Sheet_4: 6018583500476143391
+      Kakek Arman Chibi Front Idle-Sheet_5: -2505623023748342879
+      Kakek Arman Chibi Front Idle-Sheet_6: -1651813776156164458
+      Kakek Arman Chibi Front Idle-Sheet_7: -3488295035085057283
+      Kakek Arman Chibi Front Idle-Sheet_8: 2343650696186803210
+      Kakek Arman Chibi Front Idle-Sheet_9: 7234291956379309054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

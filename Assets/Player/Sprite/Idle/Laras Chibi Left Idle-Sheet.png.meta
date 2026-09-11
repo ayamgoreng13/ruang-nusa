@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: b48753935591305438632cbf879913c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4620646027301761637
+    second: Laras Chibi Left Idle-Sheet_0
+  - first:
+      213: -3567180239769370995
+    second: Laras Chibi Left Idle-Sheet_1
+  - first:
+      213: -2767164153321275883
+    second: Laras Chibi Left Idle-Sheet_2
+  - first:
+      213: 1573177221289049758
+    second: Laras Chibi Left Idle-Sheet_3
+  - first:
+      213: 239265984668118537
+    second: Laras Chibi Left Idle-Sheet_4
+  - first:
+      213: 7084209833419538399
+    second: Laras Chibi Left Idle-Sheet_5
+  - first:
+      213: -7923225752128032536
+    second: Laras Chibi Left Idle-Sheet_6
+  - first:
+      213: 2661520418856632071
+    second: Laras Chibi Left Idle-Sheet_7
+  - first:
+      213: -3273603483839988133
+    second: Laras Chibi Left Idle-Sheet_8
+  - first:
+      213: -6440648889550147166
+    second: Laras Chibi Left Idle-Sheet_9
+  - first:
+      213: 5143049911020126606
+    second: Laras Chibi Left Idle-Sheet_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Laras Chibi Left Idle-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5623422a415df1040800000000000000
+      internalID: 4620646027301761637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laras Chibi Left Idle-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ef0ceb874de7ec0800000000000000
+      internalID: -3567180239769370995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laras Chibi Left Idle-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e37161dde0999d0800000000000000
+      internalID: -2767164153321275883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laras Chibi Left Idle-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e7ba3095c05d510800000000000000
+      internalID: 1573177221289049758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laras Chibi Left Idle-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e2af6352b025300800000000000000
+      internalID: 239265984668118537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laras Chibi Left Idle-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdffc4b4f4b205260800000000000000
+      internalID: 7084209833419538399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laras Chibi Left Idle-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e07e21582c0b0290800000000000000
+      internalID: -7923225752128032536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laras Chibi Left Idle-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ff56838be9fe420800000000000000
+      internalID: 2661520418856632071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laras Chibi Left Idle-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e7c3ac9f2d192d0800000000000000
+      internalID: -3273603483839988133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laras Chibi Left Idle-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1795f75f73e96a0800000000000000
+      internalID: -6440648889550147166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laras Chibi Left Idle-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81857025a8cf5740800000000000000
+      internalID: 5143049911020126606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Laras Chibi Left Idle-Sheet_0: 4620646027301761637
+      Laras Chibi Left Idle-Sheet_1: -3567180239769370995
+      Laras Chibi Left Idle-Sheet_10: 5143049911020126606
+      Laras Chibi Left Idle-Sheet_2: -2767164153321275883
+      Laras Chibi Left Idle-Sheet_3: 1573177221289049758
+      Laras Chibi Left Idle-Sheet_4: 239265984668118537
+      Laras Chibi Left Idle-Sheet_5: 7084209833419538399
+      Laras Chibi Left Idle-Sheet_6: -7923225752128032536
+      Laras Chibi Left Idle-Sheet_7: 2661520418856632071
+      Laras Chibi Left Idle-Sheet_8: -3273603483839988133
+      Laras Chibi Left Idle-Sheet_9: -6440648889550147166
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
